@@ -1,3 +1,5 @@
-## Content
+# Content
 
-First we have this file with this sentence.
+## Section 2
+
+We adding section 2 deliberately instead.
